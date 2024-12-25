@@ -1,0 +1,45 @@
+.post{
+    border: solid 1px gray;
+    border-radius: 10px;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    flex-direction: column;
+}
+.postHeader{
+    border-bottom: solid 1px gray;
+}
+/* .postBody{
+    border-bottom: solid 1px gray;
+} */
+.timetype{
+    font-size: small;
+    color: grey;
+}
+h2{
+    text-align: start;
+}
+.userName{
+    margin:0;
+}
+.write{
+    display: none;
+}
+.send-com{
+    width:80px;
+}
+input{
+    height:90px
+}
+input.placeholder{
+    padding: 0;
+}
+/* .poll-section{
+    border-bottom: solid 1px gray;
+} */
+button{
+    background-color: #5496BF;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
